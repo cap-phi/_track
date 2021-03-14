@@ -492,3 +492,41 @@ Always ask if not sure.
 Gungalin | [Crest Lightning to HDMI](https://www.bigw.com.au/product/crest-lightning-to-hdmi-adaptor/p/119555/) doesn't support protected resources playback, e.g. Apple TV and Optus Sport
 
 ---
+
+### 14-03-2021
+
+> Life is chaos, that's what makes it alive.
+
+#### Schedule
+
+| Time  |          What's been done          | Location |                              More                              |
+| :---: | :--------------------------------: | :------: | :------------------------------------------------------------: |
+| 06:00 |                                    |          |                                                                |
+| 07:00 |                                    |          |                                                                |
+| 08:00 |                                    |          |                                                                |
+| 09:00 |                                    |          |                                                                |
+| 10:00 |                                    |          |                                                                |
+| 11:00 |                                    |          |                                                                |
+| 12:00 |      late morning; breakfast;      |          | prawn noodle with peas and corns, the usual, plus thai pickles |
+| 13:00 | tv in the lounge; leetcode weekly; |          |                                                                |
+| 14:00 |          leetcode weekly;          |          |                                                                |
+| 15:00 |               stuck;               |          |                         priority queue                         |
+| 16:00 |           break; shower;           |          |                                                                |
+| 17:00 |          wechat; dinner;           |          |                 noodle, oven beef, asparagus;                  |
+| 18:00 |            void; movie;            |          |                          paris, texas                          |
+| 19:00 |               movie;               |          |                                                                |
+| 20:00 |             movie; tv;             |          |                                                                |
+| 21:00 |           void; anxiety;           |          |                                                                |
+| 22:00 |                                    |          |                                                                |
+| 23:00 |                                    |          |                                                                |
+| 24:00 |                                    |          |                                                                |
+
+#### Refelection
+
+#### Notes/Mindmap
+
+Change of rules:
+
+- refresh this repo every 3 hours
+- include more details, in the future incorporate plans
+- ***
