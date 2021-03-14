@@ -529,4 +529,39 @@ Change of rules:
 
 - refresh this repo every 3 hours
 - include more details, in the future incorporate plans
-- ***
+
+---
+
+### 15-03-2021
+
+> Meditate -> Think -> Sleep -> Meditate -> Think -> Sleep ...
+
+#### Schedule
+
+| Time  |                What's been done                | Location |                          More                           |
+| :---: | :--------------------------------------------: | :------: | :-----------------------------------------------------: |
+| 06:00 |                                                |          |                                                         |
+| 07:00 |                                                |          |                                                         |
+| 08:00 |                  Up and down;                  |          |                 chilly morning... 17.1°                 |
+| 09:00 | breakfast; meet the press; shower; sandwiches; |          | [fussili](https://www.jessicagavin.com/types-of-pasta/) |
+| 10:00 |                drive to campus;                |          |           better leave your phone in the car            |
+| 11:00 |                                                |          |                                                         |
+| 12:00 |                                                |          |                                                         |
+| 13:00 |                                                |          |                                                         |
+| 14:00 |                                                |          |                                                         |
+| 15:00 |                                                |          |                                                         |
+| 16:00 |                                                |          |                                                         |
+| 17:00 |                                                |          |                                                         |
+| 18:00 |                                                |          |                                                         |
+| 19:00 |                                                |          |                                                         |
+| 20:00 |                                                |          |                                                         |
+| 21:00 |                                                |          |                                                         |
+| 22:00 |                                                |          |                                                         |
+| 23:00 |                                                |          |                                                         |
+| 24:00 |                                                |          |                                                         |
+
+#### Refelection
+
+#### Notes/Mindmap
+
+---
