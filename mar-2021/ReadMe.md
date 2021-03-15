@@ -538,27 +538,27 @@ Change of rules:
 
 #### Schedule
 
-| Time  |                What's been done                | Location |                          More                           |
-| :---: | :--------------------------------------------: | :------: | :-----------------------------------------------------: |
-| 06:00 |                                                |          |                                                         |
-| 07:00 |                                                |          |                                                         |
-| 08:00 |                  Up and down;                  |          |                 chilly morning... 17.1°                 |
-| 09:00 | breakfast; meet the press; shower; sandwiches; |          | [fussili](https://www.jessicagavin.com/types-of-pasta/) |
-| 10:00 |                drive to campus;                |          |           better leave your phone in the car            |
-| 11:00 |                                                |          |                                                         |
-| 12:00 |                                                |          |                                                         |
-| 13:00 |                                                |          |                                                         |
-| 14:00 |                                                |          |                                                         |
-| 15:00 |                                                |          |                                                         |
-| 16:00 |                                                |          |                                                         |
-| 17:00 |                                                |          |                                                         |
-| 18:00 |                                                |          |                                                         |
-| 19:00 |                                                |          |                                                         |
-| 20:00 |                                                |          |                                                         |
-| 21:00 |                                                |          |                                                         |
-| 22:00 |                                                |          |                                                         |
-| 23:00 |                                                |          |                                                         |
-| 24:00 |                                                |          |                                                         |
+| Time  |                What's been done                | Location |                                    More                                    |
+| :---: | :--------------------------------------------: | :------: | :------------------------------------------------------------------------: |
+| 06:00 |                                                |          |                                                                            |
+| 07:00 |                                                |          |                                                                            |
+| 08:00 |                  Up and down;                  |          |                          chilly morning... 17.1°                           |
+| 09:00 | breakfast; meet the press; shower; sandwiches; |          |          [fussili](https://www.jessicagavin.com/types-of-pasta/)           |
+| 10:00 |         drive to campus; housekeeping;         |   Road   |                     better leave your phone in the car                     |
+| 11:00 |                 intro to nosql                 | Menzies  |                           youtube - qI_g07C_Q5I                            |
+| 12:00 |            break; lunch; database;             |          | sandwiches: wholegrain bread, peanut butter, mixed spinach, chicken bacon; |
+| 13:00 |              database; comp6300;               |          |                                                                            |
+| 14:00 |                   comp6300;                    |          |                                                                            |
+| 15:00 |                review comp6300;                |          |                         for hurdle test 17:10 lab                          |
+| 16:00 |                                                |          |                                                                            |
+| 17:00 |                                                |          |                                                                            |
+| 18:00 |                                                |          |                                                                            |
+| 19:00 |                                                |          |                                                                            |
+| 20:00 |                                                |          |                                                                            |
+| 21:00 |                                                |          |                                                                            |
+| 22:00 |                                                |          |                                                                            |
+| 23:00 |                                                |          |                                                                            |
+| 24:00 |                                                |          |                                                                            |
 
 #### Refelection
 
