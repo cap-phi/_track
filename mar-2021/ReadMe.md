@@ -550,13 +550,13 @@ Change of rules:
 | 13:00 |              database; comp6300;               |          |                                                                            |
 | 14:00 |                   comp6300;                    |          |                                                                            |
 | 15:00 |                review comp6300;                |          |                         for hurdle test 17:10 lab                          |
-| 16:00 |                                                |          |                                                                            |
-| 17:00 |                                                |          |                                                                            |
-| 18:00 |                                                |          |                                                                            |
-| 19:00 |                                                |          |                                                                            |
-| 20:00 |                                                |          |                                                                            |
-| 21:00 |                                                |          |                                                                            |
-| 22:00 |                                                |          |                                                                            |
+| 16:00 |              review in progress;               |          |                                                                            |
+| 17:00 |    hurdle test; walk exercise; drive back;     |   Road   |                                                                            |
+| 18:00 |                 dinner; void;                  |   Home   |                                                                            |
+| 19:00 |                 postgres init;                 |          |                  cmd version conflict, for now use --cask                  |
+| 20:00 |                 group meeting;                 |          |                                                                            |
+| 21:00 |     group meeting prolongs; housekeeping;      |          |              confluence update; need to know more of database              |
+| 22:00 |             apple fitness; shower;             |          |                                 sore legs;                                 |
 | 23:00 |                                                |          |                                                                            |
 | 24:00 |                                                |          |                                                                            |
 
