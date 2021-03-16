@@ -565,3 +565,37 @@ Change of rules:
 #### Notes/Mindmap
 
 ---
+
+### 16-03-2021
+
+> 10 o'clock and it's already full.
+
+#### Schedule
+
+| Time  |             What's been done             |   Location    |         More          |
+| :---: | :--------------------------------------: | :-----------: | :-------------------: |
+| 06:00 |                                          |               |                       |
+| 07:00 |                                          |               |                       |
+| 08:00 |               Up and down;               |               |                       |
+| 09:00 | breakfast; a late show; drive to campus; |               | no shower; legs heavy |
+| 10:00 |  finding a spot to park; postgres day2;  | Hanna Neumann |                       |
+| 11:00 |                                          |               |                       |
+| 12:00 |                                          |               |                       |
+| 13:00 |                                          |               |                       |
+| 14:00 |                                          |               |                       |
+| 15:00 |                                          |               |                       |
+| 16:00 |                                          |               |                       |
+| 17:00 |                                          |               |                       |
+| 18:00 |                                          |               |                       |
+| 19:00 |                                          |               |                       |
+| 20:00 |                                          |               |                       |
+| 21:00 |                                          |               |                       |
+| 22:00 |                                          |               |                       |
+| 23:00 |                                          |               |                       |
+| 24:00 |                                          |               |                       |
+
+#### Refelection
+
+#### Notes/Mindmap
+
+---
