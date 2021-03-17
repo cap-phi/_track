@@ -572,27 +572,27 @@ Change of rules:
 
 #### Schedule
 
-| Time  |             What's been done             |   Location    |         More          |
-| :---: | :--------------------------------------: | :-----------: | :-------------------: |
-| 06:00 |                                          |               |                       |
-| 07:00 |                                          |               |                       |
-| 08:00 |               Up and down;               |               |                       |
-| 09:00 | breakfast; a late show; drive to campus; |               | no shower; legs heavy |
-| 10:00 |  finding a spot to park; postgres day2;  | Hanna Neumann |                       |
-| 11:00 |                                          |               |                       |
-| 12:00 |                                          |               |                       |
-| 13:00 |                                          |               |                       |
-| 14:00 |                                          |               |                       |
-| 15:00 |                                          |               |                       |
-| 16:00 |                                          |               |                       |
-| 17:00 |                                          |               |                       |
-| 18:00 |                                          |               |                       |
-| 19:00 |                                          |               |                       |
-| 20:00 |                                          |               |                       |
-| 21:00 |                                          |               |                       |
-| 22:00 |                                          |               |                       |
-| 23:00 |                                          |               |                       |
-| 24:00 |                                          |               |                       |
+| Time  |             What's been done             |   Location    |                                    More                                     |
+| :---: | :--------------------------------------: | :-----------: | :-------------------------------------------------------------------------: |
+| 06:00 |                                          |               |                                                                             |
+| 07:00 |                                          |               |                                                                             |
+| 08:00 |               Up and down;               |               |                                                                             |
+| 09:00 | breakfast; a late show; drive to campus; |               |                            no shower; legs heavy                            |
+| 10:00 |  finding a spot to park; postgres day2;  | Hanna Neumann |                                                                             |
+| 11:00 |      sit down and play some config;      |               |                      the thing is that you'll forget;                       |
+| 12:00 |      techlauncher 2hours workshop;       |               | often amazed at how these 30-year experience leturers handle zoom meetings; |
+| 13:00 |                 workshop                 |               |                                                                             |
+| 14:00 |             client meeting;              |               |                                    zoom                                     |
+| 15:00 |             client meeting;              |               |                                                                             |
+| 16:00 |              team meeting;               |               |                                                                             |
+| 17:00 |           drive back; dinner;            |     Road      |                                                                             |
+| 18:00 |           waste on tv; break;            |     Home      |                                                                             |
+| 19:00 |                  void;                   |               |                                                                             |
+| 20:00 |  draft user requirements for database;   |               |                                                                             |
+| 21:00 |                   '~'                    |               |             use '~' to refer to the same activity of last hour              |
+| 22:00 |  drafting email to Tim and group chat;   |               |                                                                             |
+| 23:00 |          more time on chatting;          |               |                                 exhausted;                                  |
+| 24:00 |                                          |               |                                                                             |
 
 #### Refelection
 
