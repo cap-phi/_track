@@ -621,14 +621,17 @@ Change of rules:
 | 16:00 |           '~'            |          |                                                            |
 | 17:00 | drive to wws; groceries; |   Road   |                                                            |
 | 18:00 |   drive back; dinner;    |          |                    add some dumplings;                     |
-| 19:00 |          R[^r]           |          |                                                            |
-| 20:00 |                          |          |                                                            |
-| 21:00 |                          |          |                                                            |
-| 22:00 |                          |          |                                                            |
-| 23:00 |                          |          |                                                            |
+| 19:00 |          R[^r]           |   Home   |                                                            |
+| 20:00 |      leetcode prac;      |          |                                                            |
+| 21:00 |        free time;        |          |                                                            |
+| 22:00 |        anything;         |          |        gotta say sth about the ridiculous logics...        |
+| 23:00 |      prep to rest;       |          |                                                            |
 | 24:00 |                          |          |                                                            |
 
 #### Refelection
+
+They sink so low that the snobbish faces are devouring their minds, and it's not sth they can hide with the makeups or so-called politeness. Let me give you some examples later on.
+No place is saved when they bring those bad habits with them...
 
 #### Notes/Mindmap
 
