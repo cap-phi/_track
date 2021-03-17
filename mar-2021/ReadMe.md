@@ -639,3 +639,37 @@ No place is saved when they bring those bad habits with them...
 [^r]: Reading, mostly textbooks in related cs fields.
 
 ---
+
+### 18-03-2021
+
+> Become so wrapped up in something that you forget to be afraid. -Lady Bird Johnson
+
+#### Schedule
+
+| Time  |      What's been done       | Location |         More         |
+| :---: | :-------------------------: | :------: | :------------------: |
+| 06:00 |                             |          |                      |
+| 07:00 |    Up and down; shower;     |          |                      |
+| 08:00 | breakfast; drive to campus; |          | familiar traffic jam |
+| 09:00 |                             |          |                      |
+| 10:00 |                             |          |                      |
+| 11:00 |                             |          |                      |
+| 12:00 |                             |          |                      |
+| 13:00 |                             |          |                      |
+| 14:00 |                             |          |                      |
+| 15:00 |                             |          |                      |
+| 16:00 |                             |          |                      |
+| 17:00 |                             |          |                      |
+| 18:00 |                             |          |                      |
+| 19:00 |                             |          |                      |
+| 20:00 |                             |          |                      |
+| 21:00 |                             |          |                      |
+| 22:00 |                             |          |                      |
+| 23:00 |                             |          |                      |
+| 24:00 |                             |          |                      |
+
+#### Refelection
+
+#### Notes/Mindmap
+
+---
