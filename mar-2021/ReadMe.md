@@ -599,3 +599,40 @@ Change of rules:
 #### Notes/Mindmap
 
 ---
+
+### 17-03-2021
+
+> There are two ways of spreading light: to be the candle or the mirror that reflects it. -Edith Wharton
+
+#### Schedule
+
+| Time  |     What's been done     | Location |                            More                            |
+| :---: | :----------------------: | :------: | :--------------------------------------------------------: |
+| 06:00 |                          |          |                                                            |
+| 07:00 |    Up for early zoom;    |          |      make it regular: 8 hours sleep should be enough       |
+| 08:00 |      8715 tutorial;      |          |                                                            |
+| 09:00 |           '~'            |          |                                                            |
+| 10:00 | breakfast; wechat drama; |          |         need to take a shower in the morning, man!         |
+| 11:00 |  drive to campus; 6300;  |   Road   |                                                            |
+| 12:00 |          6300;           | Menzies  | sleepy and miss sth functionally important... review later |
+| 13:00 |      break[^1703];       |          |                                                            |
+| 14:00 |      detailed plan;      |          |                                                            |
+| 15:00 |           '~'            |          |                                                            |
+| 16:00 |           '~'            |          |                                                            |
+| 17:00 | drive to wws; groceries; |   Road   |                                                            |
+| 18:00 |   drive back; dinner;    |          |                    add some dumplings;                     |
+| 19:00 |          R[^r]           |          |                                                            |
+| 20:00 |                          |          |                                                            |
+| 21:00 |                          |          |                                                            |
+| 22:00 |                          |          |                                                            |
+| 23:00 |                          |          |                                                            |
+| 24:00 |                          |          |                                                            |
+
+#### Refelection
+
+#### Notes/Mindmap
+
+[^1703]: What does it mean when I write down break or void? Usually, I cannot recall the instances during that period of time or it is sth trivial and not worth taking notes of. But this time, I use break to reflect on the fact that I already sink down to a position where the lectures/tutorials can contribute little to my understanding of the course. In this case, I try to avoid the 8420 tutorial because I find it difficult to follow and painful to just listen to tutors blathering about jargons. I do, however, feel for them because most of them are only doing this for the referral letter of the stipends rather that for imroving the understanding or enjoying this course. Students' learning outcomes become the byproduct of this tutorial. It is what it is, so deal with it. How can I tell? You can always tell if a man is enjoying his time or not, so to speak.
+[^r]: Reading, mostly textbooks in related cs fields.
+
+---
