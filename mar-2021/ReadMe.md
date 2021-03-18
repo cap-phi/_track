@@ -673,3 +673,39 @@ No place is saved when they bring those bad habits with them...
 #### Notes/Mindmap
 
 ---
+
+### 19-03-2021
+
+> There are no problems we cannot solve together, and very few that we can solve by ourselves. - Lyndon B. Johnson
+
+#### Schedule
+
+| Time  |          What's been done          | Location | More |
+| :---: | :--------------------------------: | :------: | :--: |
+| 06:00 |                                    |          |      |
+| 07:00 |                                    |          |      |
+| 08:00 | Up late and down; drive to campus; |   Road   |      |
+| 09:00 |     code complete(cc); csapp;      | Menzies  |      |
+| 10:00 |                                    |          |      |
+| 11:00 |                                    |          |      |
+| 12:00 |                                    |          |      |
+| 13:00 |                                    |          |      |
+| 14:00 |                                    |          |      |
+| 15:00 |                                    |          |      |
+| 16:00 |                                    |          |      |
+| 17:00 |                                    |          |      |
+| 18:00 |                                    |          |      |
+| 19:00 |                                    |          |      |
+| 20:00 |                                    |          |      |
+| 21:00 |                                    |          |      |
+| 22:00 |                                    |          |      |
+| 23:00 |                                    |          |      |
+| 24:00 |                                    |          |      |
+
+#### Refelection
+
+Worry a little too much about driving over the speed limit. This morning, I set the cruise control to 82 on a 80 road. When there was a speed checking van ahead, I just lower it to 80 without braking, in which way the speed will slowly drop to 80 (technically it's above the limit). Usually, people tend to brake when they see the van to get into the safty zone of 75 or so. Come to think of it, this time I worried a little bit after I drove past the van. Well, let it pass, and treat it as a test on whether or not the checker if strict on 80 or not. If I get a ticket in 14 days, that's an expensive lesson. If I don't, I can ease up my mind the next time I cruise on the road.
+
+#### Notes/Mindmap
+
+---
