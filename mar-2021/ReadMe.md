@@ -646,27 +646,27 @@ No place is saved when they bring those bad habits with them...
 
 #### Schedule
 
-| Time  |      What's been done       | Location |         More         |
-| :---: | :-------------------------: | :------: | :------------------: |
-| 06:00 |                             |          |                      |
-| 07:00 |    Up and down; shower;     |          |                      |
-| 08:00 | breakfast; drive to campus; |          | familiar traffic jam |
-| 09:00 |                             |          |                      |
-| 10:00 |                             |          |                      |
-| 11:00 |                             |          |                      |
-| 12:00 |                             |          |                      |
-| 13:00 |                             |          |                      |
-| 14:00 |                             |          |                      |
-| 15:00 |                             |          |                      |
-| 16:00 |                             |          |                      |
-| 17:00 |                             |          |                      |
-| 18:00 |                             |          |                      |
-| 19:00 |                             |          |                      |
-| 20:00 |                             |          |                      |
-| 21:00 |                             |          |                      |
-| 22:00 |                             |          |                      |
-| 23:00 |                             |          |                      |
-| 24:00 |                             |          |                      |
+| Time  |           What's been done           | Location |         More         |
+| :---: | :----------------------------------: | :------: | :------------------: |
+| 06:00 |                                      |          |                      |
+| 07:00 |         Up and down; shower;         |          |                      |
+| 08:00 |     breakfast; drive to campus;      |   Road   | familiar traffic jam |
+| 09:00 |              textbook;               | Chifley  |                      |
+| 10:00 |          leetcode quickie;           |          |                      |
+| 11:00 |            8110 workshop;            |          |                      |
+| 12:00 |            8420 past lec;            |          |                      |
+| 13:00 |            8420 past lec;            |          |                      |
+| 14:00 |            8420 lec live;            |          |                      |
+| 15:00 |            8420 lec live;            |          |                      |
+| 16:00 |              8110 lec;               |          |                      |
+| 17:00 |              8110 lec;               |          |                      |
+| 18:00 |         8715 client meeting;         |          |                      |
+| 19:00 |   8715 client meeting; drive back;   |   Road   |                      |
+| 20:00 | dinner; nbc news; making sandwiches; |   Home   |                      |
+| 21:00 |                                      |          |                      |
+| 22:00 |                                      |          |                      |
+| 23:00 |                                      |          |                      |
+| 24:00 |                                      |          |                      |
 
 #### Refelection
 
