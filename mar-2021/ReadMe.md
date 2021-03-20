@@ -720,3 +720,37 @@ To-do:
 - [ ]
 
 ---
+
+### 20-03-2021
+
+> Courage doesn't always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.' - Mary Anne Radmacher
+
+#### Schedule
+
+| Time  |              What's been done              | Location |        More        |
+| :---: | :----------------------------------------: | :------: | :----------------: |
+| 06:00 |                                            |          |                    |
+| 07:00 |                                            |          |                    |
+| 08:00 |                                            |          |                    |
+| 09:00 |            Up and down; shower;            |          |                    |
+| 10:00 |          breakfast; a late show;           |          |                    |
+| 11:00 |             weekend shopping;              | Gungalin |    sauce, spice    |
+| 12:00 |                 groceries;                 |          | bump onto the curb |
+| 13:00 | drive back; oven bake fillet and potatoes; |   Home   |                    |
+| 14:00 |                family call;                |          |                    |
+| 15:00 |                   break;                   |          |                    |
+| 16:00 |                                            |          |                    |
+| 17:00 |                                            |          |                    |
+| 18:00 |                                            |          |                    |
+| 19:00 |                                            |          |                    |
+| 20:00 |                                            |          |                    |
+| 21:00 |                                            |          |                    |
+| 22:00 |                                            |          |                    |
+| 23:00 |                                            |          |                    |
+| 24:00 |                                            |          |                    |
+
+#### Refelection
+
+#### Notes/Mindmap
+
+---
