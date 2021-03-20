@@ -680,32 +680,43 @@ No place is saved when they bring those bad habits with them...
 
 #### Schedule
 
-| Time  |          What's been done          | Location | More |
-| :---: | :--------------------------------: | :------: | :--: |
-| 06:00 |                                    |          |      |
-| 07:00 |                                    |          |      |
-| 08:00 | Up late and down; drive to campus; |   Road   |      |
-| 09:00 |     code complete(cc); csapp;      | Menzies  |      |
-| 10:00 |                                    |          |      |
-| 11:00 |                                    |          |      |
-| 12:00 |                                    |          |      |
-| 13:00 |                                    |          |      |
-| 14:00 |                                    |          |      |
-| 15:00 |                                    |          |      |
-| 16:00 |                                    |          |      |
-| 17:00 |                                    |          |      |
-| 18:00 |                                    |          |      |
-| 19:00 |                                    |          |      |
-| 20:00 |                                    |          |      |
-| 21:00 |                                    |          |      |
-| 22:00 |                                    |          |      |
-| 23:00 |                                    |          |      |
-| 24:00 |                                    |          |      |
+| Time  |                 What's been done                  | Location |                            More                            |
+| :---: | :-----------------------------------------------: | :------: | :--------------------------------------------------------: |
+| 06:00 |                                                   |          |                                                            |
+| 07:00 |                                                   |          |                                                            |
+| 08:00 |        Up late and down; drive to campus;         |   Road   |                                                            |
+| 09:00 |             code complete(cc); csapp;             | Menzies  |                                                            |
+| 10:00 |                  leetcode prac;                   |          |                                                            |
+| 11:00 |                  leetcode prac;                   |          |                                                            |
+| 12:00 |                      csapp;                       |          |                                                            |
+| 13:00 |               8110 first paragraph;               |          |                                                            |
+| 14:00 |       set up zoom meeting and google docs;        |          |            had to go downstairs to get my phone            |
+| 15:00 |              6300 ass1 read through;              |          |                                                            |
+| 16:00 |       try to understand the task; read faq;       |          |           lib closes on 5pm, had to leave early            |
+| 17:00 |                drive back; dinner;                |   Road   |                                                            |
+| 18:00 |          too full; waste time on wechat;          |   Home   |                                                            |
+| 19:00 |             8715 confluence editing;              |          |                                                            |
+| 20:00 |   editing plus wechat plus jira task assigning;   |          |                                                            |
+| 21:00 | extend half an hour for 8715; 8420 record videos; |          |                                                            |
+| 22:00 |                   8420 echo360;                   |          | have trouble understanding, it's time to make up for it... |
+| 23:00 |               break; prep to sleep;               |          |                                                            |
+| 24:00 |                                                   |          |                                                            |
 
 #### Refelection
 
 Worry a little too much about driving over the speed limit. This morning, I set the cruise control to 82 on a 80 road. When there was a speed checking van ahead, I just lower it to 80 without braking, in which way the speed will slowly drop to 80 (technically it's above the limit). Usually, people tend to brake when they see the van to get into the safty zone of 75 or so. Come to think of it, this time I worried a little bit after I drove past the van. Well, let it pass, and treat it as a test on whether or not the checker if strict on 80 or not. If I get a ticket in 14 days, that's an expensive lesson. If I don't, I can ease up my mind the next time I cruise on the road.
 
 #### Notes/Mindmap
+
+What to share on social media:
+
+- https://arstechnica.com/gadgets/2021/03/intel-hires-justin-long-to-mock-macs-in-throwback-to-2000s-im-a-mac-ads/
+- https://www.expensivity.com/price-of-happiness-by-country/
+
+To-do:
+
+- [x] Arrange a time for Saturday 8110 zoom (4:00 pm)
+- [x] Edit confluence page
+- [ ]
 
 ---
