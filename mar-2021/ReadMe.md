@@ -739,7 +739,7 @@ To-do:
 | 13:00 | drive back; oven bake fillet and potatoes; |   Home   |                    |
 | 14:00 |                family call;                |          |                    |
 | 15:00 |                   break;                   |          |                    |
-| 16:00 |                                            |          |                    |
+| 16:00 |          all tv and relaxations;           |          |                    |
 | 17:00 |                                            |          |                    |
 | 18:00 |                                            |          |                    |
 | 19:00 |                                            |          |                    |
