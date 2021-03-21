@@ -751,6 +751,42 @@ To-do:
 
 #### Refelection
 
+Maybe add a little to just watching the tvs? Like writing some blogs, reviews, diys?
+
+#### Notes/Mindmap
+
+---
+
+### 21-03-2021
+
+> When you learn to harness the power of your fears, it can take you places beyond your wildest dreams. -Jimmy Iovine
+
+#### Schedule
+
+| Time  |                What's been done                | Location |          More           |
+| :---: | :--------------------------------------------: | :------: | :---------------------: |
+| 06:00 |                                                |          |                         |
+| 07:00 |                                                |          |                         |
+| 08:00 |                                                |          |                         |
+| 09:00 |                  Up and down;                  |          |                         |
+| 10:00 |               shower; breakfast;               |          |                         |
+| 11:00 |                 drive to nga;                  |   Road   | can't carry a backpack; |
+| 12:00 | indigenous; japanese; asian; papua new guinne; |   NGA    |                         |
+| 13:00 |                drive to school;                |   Road   |                         |
+| 14:00 |                     8110;                      | Chifley  |                         |
+| 15:00 |                     8715;                      |          |                         |
+| 16:00 |               break; drive back;               |   Road   |                         |
+| 17:00 |         cook dinner; prep sandwiches;          |   Home   |                         |
+| 18:00 |                 dinner and tv;                 |          |     too much tofu;      |
+| 19:00 |                  one more tv?                  |          |                         |
+| 20:00 |                 prep to rest;                  |          |                         |
+| 21:00 |                                                |          |                         |
+| 22:00 |                                                |          |                         |
+| 23:00 |                                                |          |                         |
+| 24:00 |                                                |          |                         |
+
+#### Refelection
+
 #### Notes/Mindmap
 
 ---
