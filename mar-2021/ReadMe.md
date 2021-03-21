@@ -792,3 +792,39 @@ Can use Sunday better. Need to consider that it's also a change of pace for comi
 #### Notes/Mindmap
 
 ---
+
+### 22-03-2021
+
+> If you can't change your fate, change your attitude. -Amy Tan
+
+#### Schedule
+
+| Time  |              What's been done              | Location | More |
+| :---: | :----------------------------------------: | :------: | :--: |
+| 06:00 |                                            |          |      |
+| 07:00 |                                            |          |      |
+| 08:00 | Up late and down hastily; drive to campus; |   Road   |      |
+| 09:00 |     made it despite the jam and rain;      | Menzies  |      |
+| 10:00 |                                            |          |      |
+| 11:00 |                                            |          |      |
+| 12:00 |                                            |          |      |
+| 13:00 |                                            |          |      |
+| 14:00 |                                            |          |      |
+| 15:00 |                                            |          |      |
+| 16:00 |                                            |          |      |
+| 17:00 |                                            |          |      |
+| 18:00 |                                            |          |      |
+| 19:00 |                                            |          |      |
+| 20:00 |                                            |          |      |
+| 21:00 |                                            |          |      |
+| 22:00 |                                            |          |      |
+| 23:00 |                                            |          |      |
+| 24:00 |                                            |          |      |
+
+#### Refelection
+
+#### Notes/Mindmap
+
+Isn't it a bit of Ah Q to say that if you can't change your fate, change your attitude?
+
+---
