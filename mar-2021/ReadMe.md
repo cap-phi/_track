@@ -787,6 +787,8 @@ Maybe add a little to just watching the tvs? Like writing some blogs, reviews, d
 
 #### Refelection
 
+Can use Sunday better. Need to consider that it's also a change of pace for coming days, though.
+
 #### Notes/Mindmap
 
 ---
