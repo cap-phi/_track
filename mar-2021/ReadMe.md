@@ -788,6 +788,7 @@ Maybe add a little to just watching the tvs? Like writing some blogs, reviews, d
 #### Refelection
 
 Can use Sunday better. Need to consider that it's also a change of pace for coming days, though.
+For example, this time you sleep early and forget your 8420 quiz...
 
 #### Notes/Mindmap
 
@@ -799,32 +800,36 @@ Can use Sunday better. Need to consider that it's also a change of pace for comi
 
 #### Schedule
 
-| Time  |              What's been done              | Location | More |
-| :---: | :----------------------------------------: | :------: | :--: |
-| 06:00 |                                            |          |      |
-| 07:00 |                                            |          |      |
-| 08:00 | Up late and down hastily; drive to campus; |   Road   |      |
-| 09:00 |     made it despite the jam and rain;      | Menzies  |      |
-| 10:00 |                                            |          |      |
-| 11:00 |                                            |          |      |
-| 12:00 |                                            |          |      |
-| 13:00 |                                            |          |      |
-| 14:00 |                                            |          |      |
-| 15:00 |                                            |          |      |
-| 16:00 |                                            |          |      |
-| 17:00 |                                            |          |      |
-| 18:00 |                                            |          |      |
-| 19:00 |                                            |          |      |
-| 20:00 |                                            |          |      |
-| 21:00 |                                            |          |      |
-| 22:00 |                                            |          |      |
-| 23:00 |                                            |          |      |
-| 24:00 |                                            |          |      |
+| Time  |              What's been done              | Location |          More          |
+| :---: | :----------------------------------------: | :------: | :--------------------: |
+| 06:00 |                                            |          |                        |
+| 07:00 |                                            |          |                        |
+| 08:00 | Up late and down hastily; drive to campus; |   Road   |                        |
+| 09:00 |     made it despite the jam and rain;      | Menzies  |                        |
+| 10:00 |           code complete; csapp;            |          |                        |
+| 11:00 |          leetcode prac; reading;           |          | manage kindle devices; |
+| 12:00 |                  reading;                  |          |                        |
+| 13:00 |            prep 6300; 6300 lec;            |          |      live coding       |
+| 14:00 |                 6300 lec;                  |          |  need to prac myself   |
+| 15:00 |               prep 6300 lab;               |          |                        |
+| 16:00 |                    lab;                    |   CSIT   |                        |
+| 17:00 |                    lab;                    |          |                        |
+| 18:00 |                    lab;                    |          |                        |
+| 19:00 |             drive back; dinner             |   Road   |                        |
+| 20:00 |            8715 group meeting;             |   Home   |                        |
+| 21:00 |           group meeting; shower;           |          |                        |
+| 22:00 |                 8420 quiz;                 |          |    what to do next?    |
+| 23:00 |      getting anxious; prep to sleep;       |          |                        |
+| 24:00 |                                            |          |                        |
 
 #### Refelection
 
 #### Notes/Mindmap
 
 Isn't it a bit of Ah Q to say that if you can't change your fate, change your attitude?
+
+One of the problems is that these international students have no voice when asked in classroom or zoom, but they have lots to say afterwards in their own chatrooms.
+
+We must see and adimit the reality that not all of the future immigrants from China come here because they want to live in a democratic country, but rather, they come here because they have lost in the game of thrones back in China, or they want to seek a backup plan in case they fail. Quite a few of them are in favor of the totalitarian government and they mock the shortcomings of democracy as evidence that China is superior. Social Darwinism is the rule they adhere to, which inevitibaly results in a dangerous tendency that goes against the fundamental values of democracy.
 
 ---
