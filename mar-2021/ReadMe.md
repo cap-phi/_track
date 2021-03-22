@@ -833,3 +833,37 @@ One of the problems is that these international students have no voice when aske
 We must see and adimit the reality that not all of the future immigrants from China come here because they want to live in a democratic country, but rather, they come here because they have lost in the game of thrones back in China, or they want to seek a backup plan in case they fail. Quite a few of them are in favor of the totalitarian government and they mock the shortcomings of democracy as evidence that China is superior. Social Darwinism is the rule they adhere to, which inevitibaly results in a dangerous tendency that goes against the fundamental values of democracy.
 
 ---
+
+### 22-03-2021
+
+> People respond well to those that are sure of what they want. -Anna Wintour
+
+#### Schedule
+
+| Time  |          What's been done          | Location | More |
+| :---: | :--------------------------------: | :------: | :--: |
+| 06:00 |                                    |          |      |
+| 07:00 |                                    |          |      |
+| 08:00 | Struggling up and down; breakfast; |          |      |
+| 09:00 |          drive to campus;          |   Road   | late |
+| 10:00 |                                    |          |      |
+| 11:00 |                                    |          |      |
+| 12:00 |                                    |          |      |
+| 13:00 |                                    |          |      |
+| 14:00 |                                    |          |      |
+| 15:00 |                                    |          |      |
+| 16:00 |                                    |          |      |
+| 17:00 |                                    |          |      |
+| 18:00 |                                    |          |      |
+| 19:00 |                                    |          |      |
+| 20:00 |                                    |          |      |
+| 21:00 |                                    |          |      |
+| 22:00 |                                    |          |      |
+| 23:00 |                                    |          |      |
+| 24:00 |                                    |          |      |
+
+#### Refelection
+
+#### Notes/Mindmap
+
+---
