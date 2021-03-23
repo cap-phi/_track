@@ -840,30 +840,32 @@ We must see and adimit the reality that not all of the future immigrants from Ch
 
 #### Schedule
 
-| Time  |          What's been done          | Location | More |
-| :---: | :--------------------------------: | :------: | :--: |
-| 06:00 |                                    |          |      |
-| 07:00 |                                    |          |      |
-| 08:00 | Struggling up and down; breakfast; |          |      |
-| 09:00 |          drive to campus;          |   Road   | late |
-| 10:00 |                                    |          |      |
-| 11:00 |                                    |          |      |
-| 12:00 |                                    |          |      |
-| 13:00 |                                    |          |      |
-| 14:00 |                                    |          |      |
-| 15:00 |                                    |          |      |
-| 16:00 |                                    |          |      |
-| 17:00 |                                    |          |      |
-| 18:00 |                                    |          |      |
-| 19:00 |                                    |          |      |
-| 20:00 |                                    |          |      |
-| 21:00 |                                    |          |      |
-| 22:00 |                                    |          |      |
-| 23:00 |                                    |          |      |
-| 24:00 |                                    |          |      |
+| Time  |          What's been done          | Location |               More               |
+| :---: | :--------------------------------: | :------: | :------------------------------: |
+| 06:00 |                                    |          |                                  |
+| 07:00 |                                    |          |                                  |
+| 08:00 | Struggling up and down; breakfast; |          |                                  |
+| 09:00 |   drive to campus; newsbriefing;   |   Road   |               late               |
+| 10:00 |          comp6300 lab ex;          | Menzies  |                                  |
+| 11:00 |       youtube; talk to cecs;       |          |       about dropping 8420        |
+| 12:00 |               games;               |          | warning! pull yourself together! |
+| 13:00 |                                    |          |                                  |
+| 14:00 |                                    |          |                                  |
+| 15:00 |                                    |          |                                  |
+| 16:00 |                                    |          |                                  |
+| 17:00 |                                    |          |                                  |
+| 18:00 |                                    |          |                                  |
+| 19:00 |                                    |          |                                  |
+| 20:00 |                                    |          |                                  |
+| 21:00 |                                    |          |                                  |
+| 22:00 |                                    |          |                                  |
+| 23:00 |                                    |          |                                  |
+| 24:00 |                                    |          |                                  |
 
 #### Refelection
 
 #### Notes/Mindmap
+
+Complete a form of reducing study load for international students. Enrol in document analysis for the autumn session.
 
 ---
