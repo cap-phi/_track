@@ -877,29 +877,32 @@ But you must be brave enough to take the step yourself.
 
 #### Schedule
 
-| Time  |                 What's been done                  | Location |              More               |
-| :---: | :-----------------------------------------------: | :------: | :-----------------------------: |
-| 06:00 |                                                   |          |                                 |
-| 07:00 |       Tragedy continues as losing in games;       |          |                                 |
-| 08:00 |          comp8715 tutorial; 1 min pitch;          |          |       nervous, practice!!       |
-| 09:00 |                comp8715 tutorial;                 |          |                                 |
-| 10:00 | regret; draft email to cecs for swapping courses; |          |                                 |
-| 11:00 |             try to catch some sleep;              |          |                                 |
-| 12:00 |                 low quality nap;                  |          |                                 |
-| 13:00 |                    cold feet;                     |          |                                 |
-| 14:00 |                    bad dreams;                    |          |                                 |
-| 15:00 |        up and live with the consequences;         |          |                                 |
-| 16:00 |      shower and rest a bit; drive to campus;      |   Road   |                                 |
-| 17:00 |             newsreading; reflection;              | Chifley  | don't be pessimistic; be brave; |
-| 18:00 |                                                   |          |                                 |
-| 19:00 |                                                   |          |                                 |
-| 20:00 |                                                   |          |                                 |
-| 21:00 |                                                   |          |                                 |
-| 22:00 |                                                   |          |                                 |
-| 23:00 |                                                   |          |                                 |
-| 24:00 |                                                   |          |                                 |
+| Time  |                 What's been done                  | Location |                     More                     |
+| :---: | :-----------------------------------------------: | :------: | :------------------------------------------: |
+| 06:00 |                                                   |          |                                              |
+| 07:00 |       Tragedy continues as losing in games;       |          |                                              |
+| 08:00 |          comp8715 tutorial; 1 min pitch;          |          |             nervous, practice!!              |
+| 09:00 |                comp8715 tutorial;                 |          |                                              |
+| 10:00 | regret; draft email to cecs for swapping courses; |          |                                              |
+| 11:00 |             try to catch some sleep;              |          |                                              |
+| 12:00 |                 low quality nap;                  |          |                                              |
+| 13:00 |                    cold feet;                     |          |                                              |
+| 14:00 |                    bad dreams;                    |          |                                              |
+| 15:00 |        up and live with the consequences;         |          |                                              |
+| 16:00 |      shower and rest a bit; drive to campus;      |   Road   |                                              |
+| 17:00 |             newsreading; reflection;              | Chifley  |       don't be pessimistic; be brave;        |
+| 18:00 |         two episodes of procrastinations;         |          |    respect the rule you set for yourself     |
+| 19:00 |                                                   |          | it's always too late and it's never too late |
+| 20:00 |                                                   |          |                                              |
+| 21:00 |                                                   |          |                                              |
+| 22:00 |                                                   |          |                                              |
+| 23:00 |                                                   |          |                                              |
+| 24:00 |                                                   |          |                                              |
 
 #### Refelection
+
+Whatever you do, you leave here with promised fulfilled.
+There is no escape. There is power in respecting yourself. There is weakness in revenge. And there will be nothing for you if you standing here, waiting for your fortune.
 
 #### Notes/Mindmap
 
