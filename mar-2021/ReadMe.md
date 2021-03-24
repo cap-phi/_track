@@ -834,38 +834,39 @@ We must see and adimit the reality that not all of the future immigrants from Ch
 
 ---
 
-### 22-03-2021
+### 23-03-2021
 
 > People respond well to those that are sure of what they want. -Anna Wintour
 
 #### Schedule
 
-| Time  |          What's been done          | Location |               More               |
-| :---: | :--------------------------------: | :------: | :------------------------------: |
-| 06:00 |                                    |          |                                  |
-| 07:00 |                                    |          |                                  |
-| 08:00 | Struggling up and down; breakfast; |          |                                  |
-| 09:00 |   drive to campus; newsbriefing;   |   Road   |               late               |
-| 10:00 |          comp6300 lab ex;          | Menzies  |                                  |
-| 11:00 |       youtube; talk to cecs;       |          |       about dropping 8420        |
-| 12:00 |               games;               |          | warning! pull yourself together! |
-| 13:00 |                                    |          |                                  |
-| 14:00 |                                    |          |                                  |
-| 15:00 |                                    |          |                                  |
-| 16:00 |                                    |          |                                  |
-| 17:00 |                                    |          |                                  |
-| 18:00 |                                    |          |                                  |
-| 19:00 |                                    |          |                                  |
-| 20:00 |                                    |          |                                  |
-| 21:00 |                                    |          |                                  |
-| 22:00 |                                    |          |                                  |
-| 23:00 |                                    |          |                                  |
-| 24:00 |                                    |          |                                  |
+| Time  |          What's been done          | Location  |               More               |
+| :---: | :--------------------------------: | :-------: | :------------------------------: |
+| 06:00 |                                    |           |                                  |
+| 07:00 |                                    |           |                                  |
+| 08:00 | Struggling up and down; breakfast; |           |                                  |
+| 09:00 |   drive to campus; newsbriefing;   |   Road    |               late               |
+| 10:00 |          comp6300 lab ex;          |  Menzies  |                                  |
+| 11:00 |       youtube; talk to cecs;       |           |       about dropping 8420        |
+| 12:00 |               games;               |           | warning! pull yourself together! |
+| 13:00 |            break; void;            |           |                                  |
+| 14:00 |      comp8715 client meeting;      | RSPhysics |                                  |
+| 15:00 |          client meeting;           |           |                                  |
+| 16:00 |         break; drive back;         |   Road    |                                  |
+| 17:00 |          total breakdown;          |           |   WARNING!!! Repeat tragedy!!!   |
+| 18:00 |                                    |           |                                  |
+| 19:00 |                                    |           |                                  |
+| 20:00 |                                    |           |                                  |
+| 21:00 |                                    |           |                                  |
+| 22:00 |                                    |           |                                  |
+| 23:00 |                                    |           |                                  |
+| 24:00 |                                    |           |                                  |
 
 #### Refelection
 
 #### Notes/Mindmap
 
-Complete a form of reducing study load for international students. Enrol in document analysis for the autumn session.
+Complete a form of reducing study load for international students. Enrol in autumn session course as an alternative.
+But you must be brave enough to take the step yourself.
 
 ---
