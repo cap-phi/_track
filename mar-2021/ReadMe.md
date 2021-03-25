@@ -907,3 +907,39 @@ There is no escape. There is power in respecting yourself. There is weakness in 
 #### Notes/Mindmap
 
 ---
+
+### 25-03-2021
+
+> Success is never so interesting as struggle - not even to the successful. -Willa Cather
+
+#### Schedule
+
+| Time  |                          What's been done                           | Location |                        More                         |
+| :---: | :-----------------------------------------------------------------: | :------: | :-------------------------------------------------: |
+| 06:00 |                                                                     |          |                                                     |
+| 07:00 |                                                                     |          |                                                     |
+| 08:00 |                                                                     |          |                                                     |
+| 09:00 |                      Up late; drive to campus;                      |   Road   |     the last day of late, ~~I hope~~ I promise      |
+| 10:00 |                           struggle; void;                           | Chifley  |               never easy, part of fun               |
+| 11:00 | reflect and promises made; get my hands dirty and my brain running; |          |                                                     |
+| 12:00 |                          void; hesitation;                          |          |                                                     |
+| 13:00 |                     better start than nothing;                      |          |                                                     |
+| 14:00 |                           begin comp8420;                           |          |                                                     |
+| 15:00 |                           start with lab;                           |          |                                                     |
+| 16:00 |                              comp8110;                              |          |                                                     |
+| 17:00 |                              comp8420;                              |          |                                                     |
+| 18:00 |                            comp8420 lab;                            |          |                                                     |
+| 19:00 |                               movie;                                |          |              corpus christi (Polland)               |
+| 20:00 |                               movie;                                |          |                                                     |
+| 21:00 |                          discuss keynote;                           |    MR    |                                                     |
+| 22:00 |                          discuss keynote;                           |          |                                                     |
+| 23:00 |                    late talk with comp8715 team;                    | Parking  |                                                     |
+| 24:00 |              late talk with comp8715 team; drive back;              |   Road   | is there any point being a peoples person (not me)? |
+
+#### Refelection
+
+Code more, talk less. This way, it's more productive and more satisfactory. Screw others' short-sighted views, they'll come around in the end, but you can not reverse the lost time worrying about that.
+
+#### Notes/Mindmap
+
+---
