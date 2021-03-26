@@ -943,3 +943,39 @@ Code more, talk less. This way, it's more productive and more satisfactory. Scre
 #### Notes/Mindmap
 
 ---
+
+### 26-03-2021
+
+> The habit of persistence is the habit of victory. -Herbert Kaufman
+
+#### Schedule
+
+| Time  |                What's been done                | Location |   More    |
+| :---: | :--------------------------------------------: | :------: | :-------: |
+| 06:00 | woke up; took some paracetamol; back to sleep; |          | toothache |
+| 07:00 |                                                |          |           |
+| 08:00 |          up and go; drive to campus;           |   Road   |           |
+| 09:00 |                    keynote;                    | Menzies  |           |
+| 10:00 |                keynote; break;                 |          |           |
+| 11:00 |            reading list; comp8715;             |          |           |
+| 12:00 |    lunch; newsreading; music; comp8420 lab;    |          |           |
+| 13:00 |                 comp8420 lab;                  |          |           |
+| 14:00 |              break; lab goes on;               |          |           |
+| 15:00 |            break; comp8715 keynote;            |          |           |
+| 16:00 |                 lab continues;                 |          |           |
+| 17:00 |                                                |          |           |
+| 18:00 |                                                |          |           |
+| 19:00 |                                                |          |           |
+| 20:00 |                                                |          |           |
+| 21:00 |                                                |          |           |
+| 22:00 |                                                |          |           |
+| 23:00 |                                                |          |           |
+| 24:00 |                                                |          |           |
+
+#### Refelection
+
+#### Notes/Mindmap
+
+Eat an apple every day before going out. Make it a habit.
+
+---
