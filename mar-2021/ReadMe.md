@@ -980,7 +980,7 @@ Eat an apple every day before going out. Make it a habit.
 
 ---
 
-### 01-03-2021
+### 27-03-2021
 
 > Life is not easy for any of us. But what of that? We must have perseverance and, above all, confidence in ourselves. We must believe we are gifted for something and that this thing must be attained. -Marie Curie
 
@@ -1007,6 +1007,40 @@ Eat an apple every day before going out. Make it a habit.
 | 22:00 |     yet another zoom for comp8715;     |          |                                                       |
 | 23:00 |            more tv for sat;            |          |                                                       |
 | 24:00 |            listen to sleep;            |          |                                                       |
+
+#### Refelection
+
+#### Notes/Mindmap
+
+---
+
+### 28-03-2021
+
+> Be happy with what you have while working for what you want. -Helen Keller
+
+#### Schedule
+
+| Time  |                     What's been done                      | Location |    More    |
+| :---: | :-------------------------------------------------------: | :------: | :--------: |
+| 06:00 |                                                           |          |            |
+| 07:00 |                                                           |          |            |
+| 08:00 |                                                           |          |            |
+| 09:00 |                                                           |          |            |
+| 10:00 |                                                           |          |            |
+| 11:00 |                         woke up;                          |          | bad dream; |
+| 12:00 | shower; breakfast; locked myself outside; got in sneakly; |          |            |
+| 13:00 |                     drive to campus;                      |   Road   |            |
+| 14:00 |                                                           |          |            |
+| 15:00 |                                                           |          |            |
+| 16:00 |                                                           |          |            |
+| 17:00 |                                                           |          |            |
+| 18:00 |                                                           |          |            |
+| 19:00 |                                                           |          |            |
+| 20:00 |                                                           |          |            |
+| 21:00 |                                                           |          |            |
+| 22:00 |                                                           |          |            |
+| 23:00 |                                                           |          |            |
+| 24:00 |                                                           |          |            |
 
 #### Refelection
 
