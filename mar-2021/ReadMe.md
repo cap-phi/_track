@@ -979,3 +979,37 @@ Code more, talk less. This way, it's more productive and more satisfactory. Scre
 Eat an apple every day before going out. Make it a habit.
 
 ---
+
+### 01-03-2021
+
+> Life is not easy for any of us. But what of that? We must have perseverance and, above all, confidence in ourselves. We must believe we are gifted for something and that this thing must be attained. -Marie Curie
+
+#### Schedule
+
+| Time  |            What's been done            | Location |                         More                          |
+| :---: | :------------------------------------: | :------: | :---------------------------------------------------: |
+| 06:00 |                                        |          |                                                       |
+| 07:00 |                                        |          |                                                       |
+| 08:00 |                                        |          |                                                       |
+| 09:00 |                                        |          |                                                       |
+| 10:00 |                                        |          |                                                       |
+| 11:00 | late morning; shower; kebab breakfast; |          |                                                       |
+| 12:00 |                  tv;                   |          |                                                       |
+| 13:00 |             comp8715 zoom;             |          |                                                       |
+| 14:00 |             keynote edits;             |          |                                                       |
+| 15:00 |             keynote edits;             |          |                                                       |
+| 16:00 |            more refinement;            |          |                                                       |
+| 17:00 |           yet another zoom;            |          |                                                       |
+| 18:00 |                 lunch;                 |          | oven baked shrimp, octupus and vegies are incredible! |
+| 19:00 |               tv; movie;               |          |                                                       |
+| 20:00 |              family call;              |          |                                                       |
+| 21:00 |                 movie;                 |          |                       mcfarland                       |
+| 22:00 |     yet another zoom for comp8715;     |          |                                                       |
+| 23:00 |            more tv for sat;            |          |                                                       |
+| 24:00 |            listen to sleep;            |          |                                                       |
+
+#### Refelection
+
+#### Notes/Mindmap
+
+---
