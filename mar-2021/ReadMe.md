@@ -1097,22 +1097,24 @@ Need to get back 1.5 hours before sleep: half an hour for the time on road; one 
 | 08:00 |                      comp8715;                       | Chifley  |                                           |
 | 09:00 |                      comp8715;                       |          |                                           |
 | 10:00 | retrospective on confluence; quick lunch with video; |          |                                           |
-| 11:00 |               music; review; comp6300;               |          | draft the habitude based on Franklin form |
-| 12:00 |                                                      |          |                                           |
-| 13:00 |                                                      |          |                                           |
-| 14:00 |                                                      |          |                                           |
-| 15:00 |                                                      |          |                                           |
-| 16:00 |                                                      |          |                                           |
-| 17:00 |                                                      |          |                                           |
-| 18:00 |                                                      |          |                                           |
-| 19:00 |                                                      |          |                                           |
-| 20:00 |                                                      |          |                                           |
+| 11:00 |              music\*; review; comp6300;              |          | draft the habitude based on Franklin form |
+| 12:00 |                 comp6300 review lec;                 |          |                                           |
+| 13:00 |                     adjust\*\*;                      |          |              youtube videos;              |
+| 14:00 |                       read\*;                        |          |                                           |
+| 15:00 |                 comp6300 review lec;                 |          |                                           |
+| 16:00 |                 comp6300 review lec;                 |          |                                           |
+| 17:00 |          entertain\*; comp6300 review lec;           |          |             1 unit of poker;              |
+| 18:00 |             comp6300 lec; go to grocery;             |   Road   |                                           |
+| 19:00 |                 drive back; dinner;                  |   Home   |                                           |
+| 20:00 |           charge watch; watch movie clips;           |          |               the animatrix               |
 | 21:00 |                                                      |          |                                           |
 | 22:00 |                                                      |          |                                           |
 | 23:00 |                                                      |          |                                           |
 | 24:00 |                                                      |          |                                           |
 
 #### Refelection
+
+The time spent on youtube videos can be used to contribute to learning new skills rather than only for a short time's pleasure.
 
 #### Notes/Mindmap
 
