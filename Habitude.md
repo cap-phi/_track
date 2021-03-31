@@ -28,12 +28,16 @@
 
 ## Concrete Pieces
 
-| _Date_ | Read | Code | Speaking | Write | Review | Invest | Help | Workout | Health | Socialize | Learn | Website | Design | Music | Entertainment | Earn | Vlog | More |
-| ------ | :--: | :--: | :------: | :---: | :----: | :----: | :--: | :-----: | :----: | :-------: | :---: | :-----: | :----: | :---: | :-----------: | :--: | :--: | :--: |
-|        |      |      |          |       |        |        |      |         |        |           |       |         |        |       |               |      |      |      |
-|        |      |      |          |       |        |        |      |         |        |           |       |         |        |       |               |      |      |      |
+> Most of the daily activities can be specified/categorized into one of the followings. The minimum time slot spent on each item is half an hour, represented by an \*.
+
+| _Date_ | Read | Code | Speaking | Write | Review | Invest | Workout | Health | Socialize | Learn | Website | Design | Music | Entertain | Earn | Vlog | School | Adjust | More |
+| ------ | :--: | :--: | :------: | :---: | :----: | :----: | :-----: | :----: | :-------: | :---: | :-----: | :----: | :---: | :-------: | :--: | :--: | :----: | :----: | ---- |
+|        |      |      |          |       |        |        |         |        |           |       |         |        |       |           |      |      |        |        |      |
+|        |      |      |          |       |        |        |         |        |           |       |         |        |       |           |      |      |        |        |      |
 
 ### Read
+
+Recommended: \*\*\*\*(2 hours)
 
 | _Book_ | P20 | 40  | 60  | 80  | 100 | 120 | 140 | 160 | 180 | 200 | 220 | 240 | 260 | 280 | 300 | 320 | 340 | 360 | 380 | 400 | 420 | 440 | 460 | 480 | 500 | 520 |
 | ------ | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -41,4 +45,14 @@
 |        |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 |        |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 
+| _E-Book_ | 5%  | 10% | 15% | 20% | 25% | 30% | 35% | 40% | 45% | 50% | 55% | 60% | 65% | 70% | 75% | 80% | 85% | 90% | 95% | 100% | rating | more |
+| -------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---- | ------ | ---- |
+|          |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |      |        |      |
+
 ### Code
+
+Recommended: \*\*\*\*
+
+### Speaking
+
+Recommended: \*\*
