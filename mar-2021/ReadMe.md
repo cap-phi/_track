@@ -1047,3 +1047,39 @@ Eat an apple every day before going out. Make it a habit.
 #### Notes/Mindmap
 
 ---
+
+### 30-03-2021
+
+> Achievable goals are the first step to self-improvement. -J.K. Rowling
+
+#### Schedule
+
+| Time  |                              What's been done                               | Location |                     More                     |
+| :---: | :-------------------------------------------------------------------------: | :------: | :------------------------------------------: |
+| 06:00 |                                                                             |          |                                              |
+| 07:00 |                                                                             |          |                                              |
+| 08:00 |                                                                             |          |                                              |
+| 09:00 |                                                                             |          |                                              |
+| 10:00 |                                                                             |          |                                              |
+| 11:00 |                                                                             |          |                                              |
+| 12:00 |                                                                             |          |                                              |
+| 13:00 |                                                                             |          |                                              |
+| 14:00 |                                                                             |          |                                              |
+| 15:00 |                                                                             |          |                                              |
+| 16:00 |                                                                             |          |                                              |
+| 17:00 |                        PAST is gone; LEARN from it.                         |          |                                              |
+| 18:00 |                               shower; dinner;                               |          |                                              |
+| 19:00 | drive to campus; 30 minute quick wrapup; ~~BEGIN 3-hour session for 6300;~~ |   Road   | I didn't believe, therefore I had an excuse. |
+| 20:00 |                             1 hour reflection;                              | Chifley  |                                              |
+| 21:00 |                         more reflection; comp6300;                          |          |                                              |
+| 22:00 |                        comp6300 review; drive back;                         |          |                                              |
+| 23:00 |                    midnight snack of toasted sandwiches;                    |          |                                              |
+| 24:00 |                                                                             |          |                                              |
+
+#### Refelection
+
+#### Notes/Mindmap
+
+Need to get back 1.5 hours before sleep: half an hour for the time on road; one hour for wrapping up and preparing for next day, i.e., review a day's work, reply msg, prepare lunchbox...
+
+---
