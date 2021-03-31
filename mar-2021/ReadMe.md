@@ -1107,7 +1107,7 @@ Need to get back 1.5 hours before sleep: half an hour for the time on road; one 
 | 18:00 |             comp6300 lec; go to grocery;             |   Road   |                                           |
 | 19:00 |                 drive back; dinner;                  |   Home   |                                           |
 | 20:00 |           charge watch; watch movie clips;           |          |               the animatrix               |
-| 21:00 |                                                      |          |                                           |
+| 21:00 |      eat too much and feel sleepy; sleep early       |          |                                           |
 | 22:00 |                                                      |          |                                           |
 | 23:00 |                                                      |          |                                           |
 | 24:00 |                                                      |          |                                           |
