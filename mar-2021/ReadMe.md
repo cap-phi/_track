@@ -1083,3 +1083,37 @@ Eat an apple every day before going out. Make it a habit.
 Need to get back 1.5 hours before sleep: half an hour for the time on road; one hour for wrapping up and preparing for next day, i.e., review a day's work, reply msg, prepare lunchbox...
 
 ---
+
+### 31-03-2021
+
+> Most of our obstacles would melt away if, instead of cowering before them, we should make up our minds to walk boldly through them. -Orison Swett Marden
+
+#### Schedule
+
+| Time  |                   What's been done                   | Location |                   More                    |
+| :---: | :--------------------------------------------------: | :------: | :---------------------------------------: |
+| 06:00 |                                                      |          |                                           |
+| 07:00 |   actually got up; quick brekie; drive to campus;    |   Road   |          plenty of parking spots          |
+| 08:00 |                      comp8715;                       | Chifley  |                                           |
+| 09:00 |                      comp8715;                       |          |                                           |
+| 10:00 | retrospective on confluence; quick lunch with video; |          |                                           |
+| 11:00 |               music; review; comp6300;               |          | draft the habitude based on Franklin form |
+| 12:00 |                                                      |          |                                           |
+| 13:00 |                                                      |          |                                           |
+| 14:00 |                                                      |          |                                           |
+| 15:00 |                                                      |          |                                           |
+| 16:00 |                                                      |          |                                           |
+| 17:00 |                                                      |          |                                           |
+| 18:00 |                                                      |          |                                           |
+| 19:00 |                                                      |          |                                           |
+| 20:00 |                                                      |          |                                           |
+| 21:00 |                                                      |          |                                           |
+| 22:00 |                                                      |          |                                           |
+| 23:00 |                                                      |          |                                           |
+| 24:00 |                                                      |          |                                           |
+
+#### Refelection
+
+#### Notes/Mindmap
+
+---
