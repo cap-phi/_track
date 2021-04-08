@@ -1,30 +1,30 @@
 ### 01-04-2021
 
-> Most people get excited about games, but I've got to be excited about practice, because that's my classroom. -Pat Summitt
+> Most people get excited about games, but I've got to be excited about practice, because that's my classroom. -[Pat Summitt](https://d.pr/WHQabt)
 
 #### Schedule
 
-| Time  |   What's been done    | Location |             More              |
-| :---: | :-------------------: | :------: | :---------------------------: |
-| 06:00 |                       |          |                               |
-| 07:00 | struggling to get up; |          | take half the pill last night |
-| 08:00 |       ml code;        |          |                               |
-| 09:00 |                       |          |                               |
-| 10:00 |      d2l video;       |          |                               |
-| 11:00 |                       |          |                               |
-| 12:00 |  lunch dinner prep;   |          |                               |
-| 13:00 |                       |          |                               |
-| 14:00 |                       |          |                               |
-| 15:00 |                       |          |                               |
-| 16:00 |                       |          |                               |
-| 17:00 |                       |          |                               |
-| 18:00 |                       |          |                               |
-| 19:00 |                       |          |                               |
-| 20:00 |                       |          |                               |
-| 21:00 |                       |          |                               |
-| 22:00 |                       |          |                               |
-| 23:00 |                       |          |                               |
-| 24:00 |                       |          |                               |
+| Time  |            What's been done             | Location |             More              |
+| :---: | :-------------------------------------: | :------: | :---------------------------: |
+| 06:00 |                                         |          |                               |
+| 07:00 |          struggling to get up;          |          | take half the pill last night |
+| 08:00 |                ml code;                 |          |                               |
+| 09:00 |                                         |          |                               |
+| 10:00 |               d2l video;                |          |                               |
+| 11:00 |                                         |          |                               |
+| 12:00 |           lunch dinner prep;            |          |                               |
+| 13:00 |              nap; shower;               |          |                               |
+| 14:00 |                web dev;                 |          |                               |
+| 15:00 |                                         |          |                               |
+| 16:00 |    computer organization lab review;    |          |                               |
+| 17:00 |                                         |          |                               |
+| 18:00 |                 dinner;                 |          |                               |
+| 19:00 | software management assignment preview; |          |                               |
+| 20:00 |            some adjustments;            |          |                               |
+| 21:00 |                                         |          |                               |
+| 22:00 |              some review;               |          |                               |
+| 23:00 |                                         |          |                               |
+| 24:00 |                                         |          |                               |
 
 #### Refelection
 
