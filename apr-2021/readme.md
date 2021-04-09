@@ -1,3 +1,41 @@
+### 09-04-2021
+
+> Just as ripples spread out when a single pebble is dropped into water, the actions of indivisuals can have far-reaching effects. -[Dalai Lama](https://d.pr/Y5dgx1)
+
+#### Schedule
+
+| Time  |            What's been done             | Location |   More   |
+| :---: | :-------------------------------------: | :------: | :------: |
+| 06:00 |                                         |          |          |
+| 07:00 |                                         |          |          |
+| 08:00 | late for 20 minutes or so... start d2l; |          |          |
+| 09:00 |                                         |          |          |
+| 10:00 |            d2l past videos;             |          | bilibili |
+| 11:00 |                                         |          |          |
+| 12:00 |         prep lunch and dinner;          |          |          |
+| 13:00 |              nap; shower;               |          |          |
+| 14:00 |                web dev;                 |          |          |
+| 15:00 |                                         |          |          |
+| 16:00 |   computer organization lab exercise;   |          |          |
+| 17:00 |                                         |          |          |
+| 18:00 |              dinner break;              |          |          |
+| 19:00 |  software management assignment tips;   |          |          |
+| 20:00 |                wrap-ups;                |          |          |
+| 21:00 |                                         |          |          |
+| 22:00 |                                         |          |          |
+| 23:00 |                                         |          |          |
+| 24:00 |                                         |          |          |
+
+#### Refelection
+
+placeholder
+
+#### Notes/Mindmap
+
+placeholder
+
+---
+
 ### 01-04-2021
 
 > Most people get excited about games, but I've got to be excited about practice, because that's my classroom. -[Pat Summitt](https://d.pr/WHQabt)
