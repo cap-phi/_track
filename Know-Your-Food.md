@@ -35,6 +35,17 @@ Every part of a chicken drumette
 
 ## Fruits
 
+### Grapes
+
+#### Stats
+
+- Discovered over 9000 years ago, grapes were possibly the earliest food that both nourished and inebriated humans.
+- More than 70% of the grapes grown in the world today are used to make wine.
+  - Top 3 grape producing countries: China, USA, Italy
+  - Top 3 producers of grapes for wine: Spain, France, Italy
+- 18% carbohydrate, 81% water, 1% protein
+- Food energy: 288 kJ / 100 g
+
 ### Bananas
 
 #### Stats
