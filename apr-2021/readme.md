@@ -1,3 +1,41 @@
+### 01-04-2021
+
+> Courage can't see around corners but goes around them anyway. -[Mignon McLaughlin](https://en.wikipedia.org/wiki/Mignon_McLaughlin)
+
+#### Schedule
+
+| Time  |      What's been done      | Location |                     More                     |
+| :---: | :------------------------: | :------: | :------------------------------------------: |
+| 06:00 |                            |          |                                              |
+| 07:00 |   actually got up early;   |          |       but wasted the morning anyway...       |
+| 08:00 |            d2l;            |          |                                              |
+| 09:00 |                            |          |                                              |
+| 10:00 |     some coding prac;      |          |  need to catch up with the textbook, though  |
+| 11:00 |                            |          |                                              |
+| 12:00 |   lunch and dinner prep;   |          |                                              |
+| 13:00 |        nap; shower;        |          |            nap longer next time;             |
+| 14:00 |        css review;         |          |                                              |
+| 15:00 |   web resources review;    |          |                                              |
+| 16:00 | computer organization lab; |          |                                              |
+| 17:00 |                            |          |                                              |
+| 18:00 |    dinner; family call;    |          |                                              |
+| 19:00 |    drive to groceries;     |   Road   | return 2 shirts (XS) and get another one (S) |
+| 20:00 |   groceries; drive back;   |   Home   |                                              |
+| 21:00 |     twitch addiction;      |          |                                              |
+| 22:00 |                            |          |                                              |
+| 23:00 |          wrap-up;          |          |                                              |
+| 24:00 |                            |          |                                              |
+
+#### Refelection
+
+placeholder
+
+#### Notes/Mindmap
+
+placeholder
+
+---
+
 ### 09-04-2021
 
 > Just as ripples spread out when a single pebble is dropped into water, the actions of indivisuals can have far-reaching effects. -[Dalai Lama](https://d.pr/Y5dgx1)
