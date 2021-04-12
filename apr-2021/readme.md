@@ -1,4 +1,42 @@
-### 01-04-2021
+### 11-04-2021
+
+> There is a fine line between perseverance and madness. -[ Lynda Obst ](https://en.wikipedia.org/wiki/Lynda_Obst)
+
+#### Schedule
+
+| Time  |         What's been done         | Location |                     More                      |
+| :---: | :------------------------------: | :------: | :-------------------------------------------: |
+| 06:00 |                                  |          |                                               |
+| 07:00 |                                  |          |                                               |
+| 08:00 | listened to LFC on optus sports; |          |                                               |
+| 09:00 |                                  |          |                                               |
+| 10:00 |                                  |          |                                               |
+| 11:00 |          late morning;           |          |                                               |
+| 12:00 |                                  |          |                                               |
+| 13:00 |          shower; lunch;          |          |                                               |
+| 14:00 |                                  |          |                                               |
+| 15:00 |             laundry;             |          |                                               |
+| 16:00 |     sort out files and data;     |          |                                               |
+| 17:00 |         drive to campus;         |   Road   | to print cheatsheets; download udemy courses; |
+| 18:00 |                                  | Chifley  |                                               |
+| 19:00 |           drive back;            |   Road   |                                               |
+| 20:00 |          dinner; break;          |   Home   |                                               |
+| 21:00 |              blog;               |          |                                               |
+| 22:00 |              break;              |          |                                               |
+| 23:00 |                                  |          |                                               |
+| 24:00 |                                  |          |                                               |
+
+#### Refelection
+
+Data is abundant, while time is not.
+
+#### Notes/Mindmap
+
+placeholder
+
+---
+
+### 10-04-2021
 
 > Courage can't see around corners but goes around them anyway. -[Mignon McLaughlin](https://en.wikipedia.org/wiki/Mignon_McLaughlin)
 
@@ -74,7 +112,7 @@ placeholder
 
 ---
 
-### 01-04-2021
+### 08-04-2021
 
 > Most people get excited about games, but I've got to be excited about practice, because that's my classroom. -[Pat Summitt](https://d.pr/WHQabt)
 
