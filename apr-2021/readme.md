@@ -1,3 +1,43 @@
+### 12-04-2021
+
+> All the effort in the world won't matter if you're not inspired. -[Chuck Palahniuk](https://en.wikipedia.org/wiki/Chuck_Palahniuk)
+
+#### Schedule
+
+| Time  |      What's been done      | Location |   More   |
+| :---: | :------------------------: | :------: | :------: |
+| 06:00 |                            |          |          |
+| 07:00 |                            |          |          |
+| 08:00 |        nearly late;        |          |          |
+| 09:00 |            d2l;            |          |          |
+| 10:00 |                            |          |          |
+| 11:00 |                            |          |          |
+| 12:00 |   lunch and dinner prep;   |          |          |
+| 13:00 |        nap; shower;        |          |          |
+| 14:00 |          web dev;          |          |          |
+| 15:00 |                            |          |          |
+| 16:00 | computer organization lab; |          |          |
+| 17:00 |                            |          |          |
+| 18:00 |          dinner;           |          |          |
+| 19:00 |                            |          |          |
+| 20:00 | waste some time on twitch; |          |          |
+| 21:00 |     web dev on udemy;      |          | catch up |
+| 22:00 |                            |          |          |
+| 23:00 |          wrap-up           |          |          |
+| 24:00 |                            |          |          |
+
+#### Refelection
+
+placeholder
+
+#### Notes/Mindmap
+
+Bought the [Tomato2]() app to keep track of pomodoro time.
+
+placeholder
+
+---
+
 ### 11-04-2021
 
 > There is a fine line between perseverance and madness. -[ Lynda Obst ](https://en.wikipedia.org/wiki/Lynda_Obst)
