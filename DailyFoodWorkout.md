@@ -29,6 +29,8 @@ It's impractical to track it down here.
 | 09-04 | pullups(11+10) | dumbbells(21+20) | pushups(21+20) |
 | 10-04 | pullups(10+5)  |  dumbbells(30)   |  pushups(35)   |
 | 12-04 |   pullups(5)   |  dumbbells(25)   | pushups(25) }  |
+| 13-04 |  pullups(10)   |  dumbbells(20)   |
+| 14-04 | pullups(5+10)  |
 
 ## More
 
