@@ -1,3 +1,41 @@
+## 10-05-2021
+
+> Do the right thing.
+
+### Schedule
+
+| Time  |          What's been done           | What't the diff |          What's planned           |
+| :---: | :---------------------------------: | :-------------: | :-------------------------------: |
+| 06:00 |                                     |                 |                                   |
+| 07:00 |                                     |                 |                                   |
+| 08:00 |                                     |                 |                                   |
+| 09:00 |                                     |                 |                                   |
+| 10:00 |   Got up; bad habits need to go;    |                 |                                   |
+| 11:00 | drive to school; reading; planning; |                 |              reading              |
+| 12:00 |                                     |                 |             reading;              |
+| 13:00 |                                     | a little sleep  |           reading; lec;           |
+| 14:00 |                                     |                 |               lec;                |
+| 15:00 |                                     |                 | pro git; missing semester review; |
+| 16:00 |                                     |                 |               lab;                |
+| 17:00 |                                     |                 |               lab;                |
+| 18:00 |                                     |                 |               lab;                |
+| 19:00 |                                     |                 |               lab;                |
+| 20:00 |                                     |                 |           peer review;            |
+| 21:00 |                                     |                 |           peer review;            |
+| 22:00 |                                     |                 |            assignment;            |
+| 23:00 |                                     |                 |            assignment;            |
+| 24:00 |                                     |                 |        coding prac; (/dl)         |
+| 25:00 |                                     |                 |           coding prac;            |
+| 26:00 |                                     |                 |   review today; plan tomorrow;    |
+
+### More to add
+
+I don't know if I've made the right choice to come here in Australia instead of USA. But without hard works, I'll never find out. This is day 1 of a new start. Tian, go for it and feed all your anger, pain into the fire to burn brighter.
+
+Here, a typical day should at leave allocate 2 hours for reading, 2 hours for coding, 2 hours for a certain task, and 2 hours of learning.
+
+If you are hungry, eat; tired, sleep; bored, hang in there no excuse; smug, think about the failures; depressed, don't think, just code...
+
 ## 09-05-2021
 
 > If you can't control yourself against basic instincts, then you have no power over anything else.
