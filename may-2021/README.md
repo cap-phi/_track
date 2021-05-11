@@ -1,32 +1,66 @@
+## 11-05-2021
+
+> Practice makes perfect; lack of practice makes a loser.
+
+### Schedule
+
+| Time  |            What's been done            |    What't the diff    |         What's planned          |
+| :---: | :------------------------------------: | :-------------------: | :-----------------------------: |
+| 06:00 |                                        |                       |                                 |
+| 07:00 |                                        |                       |                                 |
+| 08:00 |                                        |                       |                                 |
+| 09:00 |                                        |                       |                                 |
+| 10:00 |                                        |                       |                                 |
+| 11:00 |    actually up, but stayed in bed;     | bad habits need to go |                                 |
+| 12:00 |              up and prep;              |                       |                                 |
+| 13:00 | drive to campus; a schedule for today; |                       |                                 |
+| 14:00 |                                        |                       |        missing semester;        |
+| 15:00 |                                        |                       |            reading;             |
+| 16:00 |                                        |                       | website (personal project / pp) |
+| 17:00 |                                        |                       |            reading;             |
+| 18:00 |                                        |                       |          comp6300 lab;          |
+| 19:00 |                                        |                       |  comp8420 lab; comp8420 video;  |
+| 20:00 |                                        |                       |                .                |
+| 21:00 |                                        |                       |                .                |
+| 22:00 |                                        |                       |    assignment / peer review;    |
+| 23:00 |                                        |                       |           assignment;           |
+| 24:00 |                                        |                       |       coding prac; (/dl)        |
+| 25:00 |                                        |                       |          coding prac;           |
+| 26:00 |                                        |                       |  review today; plan tomorrow;   |
+
+### More to add
+
+There are two kinds of opportunities: one which we chance upon, the other which we create. -[Ruth Benedict](https://en.wikipedia.org/wiki/Ruth_Benedict)
+
 ## 10-05-2021
 
 > Do the right thing.
 
 ### Schedule
 
-| Time  |          What's been done           | What't the diff |          What's planned           |
-| :---: | :---------------------------------: | :-------------: | :-------------------------------: |
-| 06:00 |                                     |                 |                                   |
-| 07:00 |                                     |                 |                                   |
-| 08:00 |                                     |                 |                                   |
-| 09:00 |                                     |                 |                                   |
-| 10:00 |   Got up; bad habits need to go;    |                 |                                   |
-| 11:00 | drive to school; reading; planning; |                 |              reading              |
-| 12:00 |                                     |                 |             reading;              |
-| 13:00 |                                     | a little sleep  |           reading; lec;           |
-| 14:00 |                                     |                 |               lec;                |
-| 15:00 |                                     |                 | pro git; missing semester review; |
-| 16:00 |                                     |                 |               lab;                |
-| 17:00 |                                     |                 |               lab;                |
-| 18:00 |                                     |                 |               lab;                |
-| 19:00 |                                     |                 |               lab;                |
-| 20:00 |                                     |                 |           peer review;            |
-| 21:00 |                                     |                 |           peer review;            |
-| 22:00 |                                     |                 |            assignment;            |
-| 23:00 |                                     |                 |            assignment;            |
-| 24:00 |                                     |                 |        coding prac; (/dl)         |
-| 25:00 |                                     |                 |           coding prac;            |
-| 26:00 |                                     |                 |   review today; plan tomorrow;    |
+| Time  |          What's been done           | What't the diff  |          What's planned           |
+| :---: | :---------------------------------: | :--------------: | :-------------------------------: |
+| 06:00 |                                     |                  |                                   |
+| 07:00 |                                     |                  |                                   |
+| 08:00 |                                     |                  |                                   |
+| 09:00 |                                     |                  |                                   |
+| 10:00 |   Got up; bad habits need to go;    |                  |                                   |
+| 11:00 | drive to school; reading; planning; |                  |              reading              |
+| 12:00 |                                     |                  |             reading;              |
+| 13:00 |                                     |  a little sleep  |           reading; lec;           |
+| 14:00 |                                     |                  |               lec;                |
+| 15:00 |          TC web interrupt;          |                  | pro git; missing semester review; |
+| 16:00 |                                     |                  |               lab;                |
+| 17:00 |                                     |                  |               lab;                |
+| 18:00 |                                     |                  |               lab;                |
+| 19:00 |                                     |                  |               lab;                |
+| 20:00 |               break;                |                  |           peer review;            |
+| 21:00 |         start peer review;          |                  |           peer review;            |
+| 22:00 |               break;                |                  |            assignment;            |
+| 23:00 |    midnight snack; tc show img;     |                  |            assignment;            |
+| 24:00 |              tc debug;              | lack of practice |        coding prac; (/dl)         |
+| 25:00 |   tc debug; comp6300 discussion;    |                  |           coding prac;            |
+| 26:00 |             drive home;             |                  |   review today; plan tomorrow;    |
 
 ### More to add
 
