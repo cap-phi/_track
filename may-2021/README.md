@@ -16,21 +16,26 @@
 | 13:00 | drive to campus; a schedule for today; |                       |                                 |
 | 14:00 |           ms video; ms note;           | taking notes to prac  |        missing semester;        |
 | 15:00 |                reading;                |                       |            reading;             |
-| 16:00 |                                        |                       | website (personal project / pp) |
-| 17:00 |                                        |                       |            reading;             |
-| 18:00 |                                        |                       |          comp6300 lab;          |
-| 19:00 |                                        |                       |  comp8420 lab; comp8420 video;  |
-| 20:00 |                                        |                       |                .                |
-| 21:00 |                                        |                       |                .                |
-| 22:00 |                                        |                       |    assignment / peer review;    |
+| 16:00 |                website;                |                       | website (personal project / pp) |
+| 17:00 |     tc reimbusement; tech reading;     |   just occurs to me   |            reading;             |
+| 18:00 |                website;                |   learn some tricks   |          comp6300 lab;          |
+| 19:00 |               8420 vid;                |                       |  comp8420 lab; comp8420 video;  |
+| 20:00 |               nap; vid;                |                       |                .                |
+| 21:00 |              break; vid;               |     finished dl3      |                .                |
+| 22:00 |              peer review;              |                       |    assignment / peer review;    |
 | 23:00 |                                        |                       |           assignment;           |
-| 24:00 |                                        |                       |       coding prac; (/dl)        |
+| 24:00 |     finish 1st review; head back;      |                       |       coding prac; (/dl)        |
 | 25:00 |                                        |                       |          coding prac;           |
 | 26:00 |                                        |                       |  review today; plan tomorrow;   |
 
 ### More to add
 
 There are two kinds of opportunities: one which we chance upon, the other which we create. -[Ruth Benedict](https://en.wikipedia.org/wiki/Ruth_Benedict)
+
+### Quick to-dos
+
+1. Email: reimbursement form
+2. TechLauncher Dry Run specifications
 
 ## 10-05-2021
 
