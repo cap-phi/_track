@@ -14,8 +14,8 @@
 | 11:00 |    actually up, but stayed in bed;     | bad habits need to go |                                 |
 | 12:00 |              up and prep;              |                       |                                 |
 | 13:00 | drive to campus; a schedule for today; |                       |                                 |
-| 14:00 |                                        |                       |        missing semester;        |
-| 15:00 |                                        |                       |            reading;             |
+| 14:00 |           ms video; ms note;           | taking notes to prac  |        missing semester;        |
+| 15:00 |                reading;                |                       |            reading;             |
 | 16:00 |                                        |                       | website (personal project / pp) |
 | 17:00 |                                        |                       |            reading;             |
 | 18:00 |                                        |                       |          comp6300 lab;          |
