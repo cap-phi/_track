@@ -1,3 +1,42 @@
+## 12-05-2021
+
+> Those times when you get up early and you work hard, those times when you stay up late and you work hard, those times when you don't feel like working, you're too tired, you don't want to push yourself, but you do it anyway. That is actually the dream. That's the dream. It's not the destination, it's the journey.
+> Those times when you get up early and you work hard, those times when you stay up late and you work hard, those times when you don't feel like working, you're too tired, you don't want to push yourself, but you do it anyway. That is actually the dream. That's the dream. It's not the destination, it's the journey. -[Kobe Bryant](https://www.theplayerstribune.com/posts/kobe-bryant-achilles-injury-basketball-nba-los-angeles-lakers)
+
+### Schedule
+
+| Time  |            What's been done             |   What't the diff    |         What's planned          |
+| :---: | :-------------------------------------: | :------------------: | :-----------------------------: |
+| 06:00 |                                         |                      |                                 |
+| 07:00 |                                         |                      |                                 |
+| 08:00 |                TC zoom;                 |                      |                                 |
+| 09:00 |                                         |                      |                                 |
+| 10:00 |            laundry; grocery;            |                      |                                 |
+| 11:00 | drive to campus; find the parking spot; |                      |                                 |
+| 12:00 |        comp6300 live streaming;         |                      |                                 |
+| 13:00 |              break; lunch;              |                      |                                 |
+| 14:00 |                                         | taking notes to prac |     plan; missing semester;     |
+| 15:00 |                                         |                      |            reading;             |
+| 16:00 |                                         |                      |          comp8420 lec;          |
+| 17:00 |                                         |                      |          comp8420 lec;          |
+| 18:00 |                                         |                      |               dl;               |
+| 19:00 |                                         |                      |               dl;               |
+| 20:00 |                                         |                      |            reading;             |
+| 21:00 |                                         |                      |              lab;               |
+| 22:00 |                                         |                      |    assignment / peer review;    |
+| 23:00 |                                         |                      |           assignment;           |
+| 24:00 |      finish 1st review; head back;      |                      |       coding prac; (/dl)        |
+| 25:00 |                                         |                      | website (personal project / pp) |
+| 26:00 |                                         |                      |  review today; plan tomorrow;   |
+
+### More to add
+
+Hang in there!
+
+### Quick to-dos
+
+1. TechLauncher Dry Run specifications
+
 ## 11-05-2021
 
 > Practice makes perfect; lack of practice makes a loser.
