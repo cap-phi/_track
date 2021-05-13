@@ -1,3 +1,38 @@
+## 13-05-2021
+
+> We cannot direct the wind, but we can adjust the sails. -[Bertha Calloway](https://en.wikipedia.org/wiki/Bertha_Calloway)
+
+### Schedule
+
+| Time  |        What's been done         |      What's diff      |              What's planned              |
+| :---: | :-----------------------------: | :-------------------: | :--------------------------------------: |
+| 06:00 |                                 |                       |                                          |
+| 07:00 |                                 |                       |                                          |
+| 08:00 |                                 |                       |                                          |
+| 09:00 |                                 |                       |                                          |
+| 10:00 |    Woke up; stayed in bed...    | bad habit needs to go |                                          |
+| 11:00 |         8110 tutorial;          |                       |                                          |
+| 12:00 |          brunch; prep;          |                       |                                          |
+| 13:00 |     drive to campus; email;     |                       |                                          |
+| 14:00 | magazine reading; git learning; |                       |                                          |
+| 15:00 |      git tutorial online;       |       addictive       |                                          |
+| 16:00 |              git;               |                       |                                          |
+| 17:00 |           git; break;           |                       |                                          |
+| 18:00 |                .                |                       |                  Lab10                   |
+| 19:00 |                .                |                       |                  Lab10                   |
+| 20:00 |             lab10;              |                       |         8420 video / nndl / lab          |
+| 21:00 |          lab; dinner;           |                       |         8420 video / nndl / lab          |
+| 22:00 |       break; assignment;        |                       |                 reading                  |
+| 23:00 |           assignment;           |                       |               coding prac;               |
+| 24:00 |             break;              |                       |                 website;                 |
+| 25:00 |            reading;             |                       | make sure to finish what's started today |
+| 26:00 |                                 |                       |                                          |
+| 27:00 |                                 |                       |                                          |
+
+### More to add
+
+Go to the dentist tomorrow.
+
 ## 12-05-2021
 
 > Those times when you get up early and you work hard, those times when you stay up late and you work hard, those times when you don't feel like working, you're too tired, you don't want to push yourself, but you do it anyway. That is actually the dream. That's the dream. It's not the destination, it's the journey.
