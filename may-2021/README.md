@@ -15,23 +15,29 @@
 | 11:00 | drive to campus; find the parking spot; |                      |                                 |
 | 12:00 |        comp6300 live streaming;         |                      |                                 |
 | 13:00 |              break; lunch;              |                      |                                 |
-| 14:00 |                                         | taking notes to prac |     plan; missing semester;     |
-| 15:00 |                                         |                      |            reading;             |
-| 16:00 |                                         |                      |          comp8420 lec;          |
-| 17:00 |                                         |                      |          comp8420 lec;          |
-| 18:00 |                                         |                      |               dl;               |
-| 19:00 |                                         |                      |               dl;               |
-| 20:00 |                                         |                      |            reading;             |
-| 21:00 |                                         |                      |              lab;               |
-| 22:00 |                                         |                      |    assignment / peer review;    |
-| 23:00 |                                         |                      |           assignment;           |
-| 24:00 |      finish 1st review; head back;      |                      |       coding prac; (/dl)        |
-| 25:00 |                                         |                      | website (personal project / pp) |
+| 14:00 |                    .                    | taking notes to prac |     plan; missing semester;     |
+| 15:00 |                reading;                 |     cs overview;     |            reading;             |
+| 16:00 |                    .                    |                      |          comp8420 lec;          |
+| 17:00 |             break; reading;             |                      |          comp8420 lec;          |
+| 18:00 |              dl textbook;               |                      |               dl;               |
+| 19:00 |              dl textbook;               |                      |               dl;               |
+| 20:00 |        newsreading; peer review;        |                      |            reading;             |
+| 21:00 |           go out for dinner;            |                      |              lab;               |
+| 22:00 |        peer review finished 2nd;        |                      |    assignment / peer review;    |
+| 23:00 |          continue peer review;          |                      |           assignment;           |
+| 24:00 |         continure peer review;          | decide to finish it  |       coding prac; (/dl)        |
+| 25:00 |         finish up peer review;          |                      | website (personal project / pp) |
 | 26:00 |                                         |                      |  review today; plan tomorrow;   |
 
 ### More to add
 
 Hang in there!
+
+Feeling ashamed that I cannot even explain the CNN towards the end of this semester. Gonna catch up with it or I'll be damned...
+
+Need to focus more on NNDL and computer organization.
+
+By the way, need to build up my portfolio in the website and integrate projects into it.
 
 ### Quick to-dos
 
