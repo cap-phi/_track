@@ -1,3 +1,37 @@
+## 14-05-2021
+
+> If opportunity doesn't knock, build a door. -[Milton Berle](https://en.wikipedia.org/wiki/Milton_Berle)
+
+### Schedule
+
+| Time  |         What's been done          |          What's next           | What's planned |
+| :---: | :-------------------------------: | :----------------------------: | :------------: |
+| 06:00 |                                   |                                |                |
+| 07:00 |                                   |                                |                |
+| 08:00 |                                   |                                |                |
+| 09:00 | woke up; made dental appointment; |                                |                |
+| 10:00 |      drive to campus; lab10;      |                                |                |
+| 11:00 |               lab;                |                                |                |
+| 12:00 |               lab;                |                                |                |
+| 13:00 |               lab;                |                                |                |
+| 14:00 |              lunch;               |                                |                |
+| 15:00 |        news reading; lab;         |                                |                |
+| 16:00 |               lab;                |                                |                |
+| 17:00 |               lab;                |                                |                |
+| 18:00 |              break;               |                                |                |
+| 19:00 |        plan; news reading;        |                                |   assignment   |
+| 20:00 |             wasted...             | need a way to relax, meditate? |   assignment   |
+| 21:00 |              dinner;              |   too tired/lazy to move on?   |   assignment   |
+| 22:00 |            discussion;            |                                |      lab       |
+| 23:00 |            discussion;            |                                |      lab       |
+| 24:00 |            drive back;            |      don't lose your ...       |    reading     |
+| 25:00 |        charging my watch;         |         all excuses...         |    reading     |
+| 26:00 |                                   |                                |    reading     |
+
+### More to add
+
+Critical thinking is not what you can acquire by just enchanting this mantra. It needs trials and errors and the patience to find out the truth. Take today for example, the tutor actually misguided me, costing me two more extra hours. Had to go over the doc and webpages again and try to do some trials to rule out the possibilities.
+
 ## 13-05-2021
 
 > We cannot direct the wind, but we can adjust the sails. -[Bertha Calloway](https://en.wikipedia.org/wiki/Bertha_Calloway)
