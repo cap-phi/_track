@@ -1,3 +1,35 @@
+## 15-05-2021
+
+> This is your life, and it's ending one minute at a time. -[Fight Club](https://en.wikipedia.org/wiki/Fight_Club)
+
+### Schedule
+
+| Time  |           What's been done           |   What's diff   |      What's planned       |
+| :---: | :----------------------------------: | :-------------: | :-----------------------: |
+| 06:00 |                                      |                 |                           |
+| 07:00 |                                      |                 |                           |
+| 08:00 |                                      |                 |                           |
+| 09:00 |            late morning;             |                 |                           |
+| 10:00 |         breakfast; grocery;          |                 |                           |
+| 11:00 | gas up; drive to campus; scheduling; |                 |                           |
+| 12:00 |                  .                   |                 |        review java        |
+| 13:00 |                                      |                 |          reading          |
+| 14:00 |                                      |                 |          coding           |
+| 15:00 |                                      | maybe lost here |     website to relax      |
+| 16:00 |                  .                   |                 |       keep coding;        |
+| 17:00 |             java recap;              |                 |                           |
+| 18:00 |             java recap;              |                 |                           |
+| 19:00 |             java recap;              |                 |                           |
+| 20:00 |                  .                   |                 | prep for assignment3 8110 |
+| 21:00 |                  .                   |                 |         8110 zoom         |
+| 22:00 |                  .                   |                 |       family call;        |
+| 23:00 |                  .                   |                 |                           |
+| 24:00 |                                      |                 |                           |
+
+### More to add
+
+That is one short day... Missing items can stay missing in the above table. Spent most of the time reviewing java int he afternoon, then had a group discussion for software management course.
+
 ## 14-05-2021
 
 > If opportunity doesn't knock, build a door. -[Milton Berle](https://en.wikipedia.org/wiki/Milton_Berle)
