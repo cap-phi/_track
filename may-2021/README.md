@@ -1,3 +1,36 @@
+## 16-05-2021
+
+> There are some things you learn best in calm, and some in storm. -[Willa Cather](https://en.wikipedia.org/wiki/Willa_Cather)
+
+### Schedule
+
+| Time  |            What's been done            |   What's next    | What's planned |
+| :---: | :------------------------------------: | :--------------: | :------------: |
+| 06:00 |                                        |                  |                |
+| 07:00 |                                        |                  |                |
+| 08:00 |                                        |                  |                |
+| 09:00 |                                        |                  |                |
+| 10:00 |        Got up; oven breakfast;         |                  |                |
+| 11:00 |  drive to campus; start a day's work;  |                  |                |
+| 12:00 |                 java;                  |                  |                |
+| 13:00 |               debugging;               |                  |                |
+| 14:00 |               debugging;               |                  |                |
+| 15:00 | break; start reading lab instrucitons; | avoid long break |      lab       |
+| 16:00 |                   .                    |                  |      lab       |
+| 17:00 |                   .                    |                  |      lab       |
+| 18:00 |        lab wrap up; read ass3;         |                  |      quiz      |
+| 19:00 |                dinner;                 |      @azure      |      quiz      |
+| 20:00 |                 break;                 |                  |      quiz      |
+| 21:00 |           ass3 read-through;           |                  |  review early  |
+| 22:00 |               ass3 read;               |                  |      read      |
+| 23:00 |                                        |                  |      web       |
+| 24:00 |                                        |                  |      web       |
+| 25:00 |                                        |                  | try to wrap up |
+
+### More to add
+
+You put in the hard work, and you keep doing it even if you have doubt. It's normal, because without doubt, there's no believer.
+
 ## 15-05-2021
 
 > This is your life, and it's ending one minute at a time. -[Fight Club](https://en.wikipedia.org/wiki/Fight_Club)
