@@ -1,3 +1,35 @@
+## 25-05-2021
+
+> The indispendable first step to getting the things you want out of life is this: decide what you want. -[Ben Stein](https://en.wikipedia.org/wiki/Ben_Stein)
+
+### Schedule
+
+| Time  |          What's been done           | What's diff |             What's planned             |
+| :---: | :---------------------------------: | :---------: | :------------------------------------: |
+| 06:00 |                                     |             |                                        |
+| 07:00 |                                     |             |                                        |
+| 08:00 |                                     |             |                                        |
+| 09:00 |            up and prep;             |             |                                        |
+| 10:00 | wasted half an hour; prep for live; |             |                                        |
+| 11:00 |       techlauncher showcase;        |             |                                        |
+| 12:00 |                                     |             |                                        |
+| 13:00 |               lunch;                |             |                                        |
+| 14:00 |    drive to campus; adjustments;    |             |                                        |
+| 15:00 |                                     |             |  neural network requirements reading   |
+| 16:00 |                                     |             |   nn assignment coding and planning;   |
+| 17:00 |                                     |             |             nn assignment;             |
+| 18:00 |                                     |             |             nn assignment;             |
+| 19:00 |                                     |             | grab dinner, discord team meeting 8110 |
+| 20:00 |                                     |             |                                        |
+| 21:00 |                                     |             |               start wpp?               |
+| 22:00 |                                     |             |        comp6300 review lectures        |
+| 23:00 |                                     |             |                                        |
+| 24:00 |                                     |             |           break & drive back           |
+
+### More to add
+
+Coding is esse
+
 ## 16-05-2021
 
 > There are some things you learn best in calm, and some in storm. -[Willa Cather](https://en.wikipedia.org/wiki/Willa_Cather)
