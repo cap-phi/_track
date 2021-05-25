@@ -23,3 +23,25 @@ The team member supports each other to deliver the outcomes to the customers thr
 In terms of communicating with the client, the team really shows everyone that it is such an enjoyable process when both the team and the client are actively communicating with each other to achieve a common goal. The team utilises every tool at hand (i.e. slack, email, zoom, face-to-face meeting, collaboration website, etc...) to communicate with the client, and the client is also dedicated to improving the design of the website and database. Both are highly motivated by the same goal, therefore the synergy is also benefiting the whole communicating process.
 
 The team does a fairly decent job trying to reflect on the performance during the whole semester in terms of setting up dedicated pages on Confluence and revising the audit according to the feedback. However, the thing is that the team is passively adopting this feedback to reflect, meaning that only after stakeholder point out a problem does the team begin to take actions. The team should take initiatives to improve teamwork and performance in order to really reflect and truly progress. The viable ways are holding extra seminars within the group to exchange opinions and challenge each other in a friendly way.
+
+---
+
+Draft script for comp8110 assignment 3
+
+[Handover] Thanks, mate!
+
+Regarding the recommendations, first of all, the team needs to adopt a more authoritative style to cope with the delay. Meanwhile, the CEO should require that the development team adjust the project plan without sticking to original roadmap.
+
+Relevant documents should be provided and updated by the development team responsively.
+
+For example, to keep the key stakeholders informed, the team should provide the CEO with a weekly status report. In this way, if the tecnical debt starts to build up, it can be spotted early on and therefore kept under control.
+
+On the other hand, to effectively neutralize conflicts, the use of ethical project management by providing a team charter for example is highly recommended. In this way, the team can effciently avoid conflicts as much as possible and speed up the development process.
+
+Next, both the team and the CEO should adjust their roles in agile methodology. For instance, the project manager should take on the role as a scrum master to supervise the progress in software development. In the meantime, the CEO should engage more with the team as the product owner, which helps prioritize the decisions and provide valuable feedback to guide the project towards success.
+
+Last but not least, communication is of vital importance to the successful release of the software in any stage of development. Instead of waiting for each other to visit, proper communication channels should be set up to engage everyone more proactively in this project.
+
+There will always be changes in the process, but agile software development encourages flexible responses to change. For example, the development has delayed the third release for three months now due to the lack of supply of new hardwares. To deal with this kind of unexpected circumstances, we can adjust the priorities in our user story map, or treat the new changes as the new stories and move on from there.
+
+Next my team mate Yuliang will summarize our presentation.
