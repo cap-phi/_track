@@ -18,8 +18,8 @@
 | 15:00 |                      |       |      |
 | 16:00 |       lec os;        |   u   |      |
 | 17:00 | wrap up lec network; |   u   |      |
-| 18:00 |     housekeeping     |   d   |      |
-| 19:00 |                      |       |      |
+| 18:00 |    housekeeping;     |   d   |      |
+| 19:00 |       dinner;        |   d   |      |
 | 20:00 |                      |       |      |
 | 21:00 |                      |       |      |
 | 22:00 |                      |       |      |
